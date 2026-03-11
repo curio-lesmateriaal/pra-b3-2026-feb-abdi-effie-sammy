@@ -1,18 +1,11 @@
-<!doctype html>
-<html lang="nl">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title></title>
-    <?php require_once 'head.php'; ?>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
-
 <body>
-    
-    <div class="container">
-
-
-    </div>
-
+        <a href="resources/task/create.php">Nieuwe taak aanmaken</a>
 </body>
-
 </html>
